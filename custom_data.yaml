@@ -1,0 +1,6 @@
+train: custom_dataset/train/images
+val: custom_dataset/valid/images
+test: custom_dataset/test/images
+
+nc: 2
+names: ['keyboard', 'mouse']
